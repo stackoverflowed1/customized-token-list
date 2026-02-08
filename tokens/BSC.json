@@ -144,14 +144,6 @@
     "logoURI": "https://assets.coingecko.com/coins/images/27266/small/Bob-logo.png?1663073030"
   },
   {
-    "name": "AllianceBlock Nexera",
-    "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
-    "symbol": "NXRA",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://i.imgur.com/voD8CiS.png"
-  },
-  {
     "name": "Own a fraction",
     "address": "0xbd80cfa9d93a87d1bb895f810ea348e496611cd4",
     "symbol": "FRACTION",
@@ -174,14 +166,6 @@
     "decimals": 4,
     "chainId": 56,
     "logoURI": "https://assets.coingecko.com/coins/images/8472/small/MicrosoftTeams-image_%286%29.png?1674480131"
-  },
-  {
-    "name": "Wombat Token",
-    "address": "0xAD6742A35fB341A9Cc6ad674738Dd8da98b94Fb1",
-    "symbol": "WOM",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/wombatex_32.png"
   },
   {
     "name": "Copiosa Coin",
@@ -256,6 +240,7 @@
     "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/USDA.svg"
   },
   {
+    "name": "AllianceBlock Nexera",
     "address": "0x644192291cc835A93d6330b24EA5f5FEdD0eEF9e",
     "chainId": 56,
     "symbol": "NXRA",
